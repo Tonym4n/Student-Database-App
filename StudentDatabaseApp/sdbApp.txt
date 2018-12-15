@@ -1,0 +1,6 @@
+Text File for storing the information in StudentDatabaseApp.
+studentID;firstName;lastName;major;gender;dob;enrollmentDate;q1;q2;q3;t1;t2;t3;
+
+85639653;Jill;Hill;Literacy;Female;01/01/2000;09/2017;90;75;65;100;78;90;
+23854913;Tony;Man;Computer Science;Male;08/27/1999;09/2017;100;100;100;100;100;100;
+12738;as;-;liter;-;-;-;-;-;-;-;-;-;
