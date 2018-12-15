@@ -1,2 +1,2 @@
 # StudentDatabaseApp
-A simplistic GUI that acts as a student database; Written and to be compiled in Java;
+A simplistic GUI that acts as a student database; Written in Java and to be compiled in the Eclipse IDE;
